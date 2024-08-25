@@ -1,0 +1,48 @@
+body{
+    background-color: #8C2F39;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+
+.aboutme{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    background-color: #FED0BB;
+    padding: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+    
+   
+}
+
+.bio-sub{
+    margin-left: -20px;
+    margin-top: 30px;
+}
+.aboutme-image{
+    border-radius: 15px;
+    width: 470px;
+    height: 560px;
+    position: absolute;
+    object-fit: cover;
+    margin-left: -95px;
+    margin-top: -5px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.bio-details{
+    width: 575px;
+    height: 222px;
+}
+
+h1 {
+    font-family: 'Bad Script';
+    color: #461220;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+p{
+    font-family: 'Roboto';
+    color: #461220;
+    
+}

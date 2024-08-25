@@ -1,0 +1,23 @@
+img{
+   display: flex;
+    width: 650px;
+    height: 800px;
+    object-fit: cover;
+}
+
+iframe{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 65px;
+    border: none;
+    border-radius: 15px;
+}
+
+.resume-title{
+    display: flex;
+    justify-content: center;
+    color: #FED0BB;
+    
+    
+}

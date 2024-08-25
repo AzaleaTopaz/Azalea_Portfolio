@@ -1,0 +1,24 @@
+.footer{
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-top: 175px;
+gap: 20px;
+
+}
+.footer{
+    margin-top: 100px;
+}
+
+a{
+color: #FCB9B2;
+text-decoration: none;
+padding: 10px;
+
+
+}
+
+a:hover{
+    background-color: #461220;
+    border-radius: 10px;
+}

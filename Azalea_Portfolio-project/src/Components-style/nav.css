@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    display: flex;
+    align-items: flex-start; 
+    justify-content: flex-end; 
+}
+.navbar{
+    display: flex;
+    
+}
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 860px;
+    
+
+}
+
+.navbar li {
+    margin-left: 20px;
+   
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #FCB9B2;
+    padding: 10px;
+}
+
+
+.navbar a:hover {
+    background-color: #461220;
+    border-radius: 10px;
+
+    
+}
