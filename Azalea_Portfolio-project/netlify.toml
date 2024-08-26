@@ -1,6 +1,6 @@
 [build]
 command = "npm run build"
-publish = "Azalea_Portfolio-project"
+publish = "Azalea_Portfolio/Azalea_Portfolio-project/dist"
 
 
 
