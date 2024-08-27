@@ -1,17 +1,17 @@
 # Azalea_Portfolio
 
 # Component Hierarchy Diagram
-![Component Hierarchy Diagram](../Azalea_Portfolio/Azalea_Portfolio-project/src/assets/project%20screenshots/portfoliio_component_hierarchy_diagram.drawio.png)
-
+![Component Hierarchy Diagram](./Azalea_Portfolio-project/public/project_screenshots/portfoliochd.png)
+Component Hierarchy Diagram
 # Wireframes
-![Wireframe Home Page](../Azalea_Portfolio/Azalea_Portfolio-project/src/assets/project%20screenshots/Screenshot%202024-08-20%20at%204.27.58 PM.png)
+![Wireframe Home Page](./Azalea_Portfolio-project/public/project_screenshots/portfoliohome.png)
 Home Page
 
-![Wireframe projects page](../Azalea_Portfolio/Azalea_Portfolio-project/src/assets/project%20screenshots/Screenshot%202024-08-20%20at%204.28.10 PM.png)
+![Wireframe projects page](./Azalea_Portfolio-project/public/project_screenshots/portfolioprojects.png)
 Project Page
 
-![Wireframe resume page](../Azalea_Portfolio/Azalea_Portfolio-project/src/assets/project%20screenshots/Screenshot%202024-08-20%20at%204.28.32 PM.png)
+![Wireframe resume page](./Azalea_Portfolio-project/public/project_screenshots/portfolioresume.png)
 Resume Page
 
-![Wireframe About Me](../Azalea_Portfolio/Azalea_Portfolio-project/src/assets/project%20screenshots/Screenshot%202024-08-20%20at%206.46.44 PM.png)
+![Wireframe About Me](./Azalea_Portfolio-project/public/project_screenshots/portfolioaboutme.png)
 About Me
